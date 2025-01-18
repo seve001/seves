@@ -1,0 +1,43 @@
+{
+    "uni_modules": {
+        "encrypt": [
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-care/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-comment/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-count/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-like/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-post/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-user/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-check/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-read/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-circle/index.js"
+        ],
+	"extends" : 
+	{
+		"sn" : "wU4fIVDy1ojFs5GQbEgKXYlxH53X7KBJaf90BcgXPl0ey/F5fIjWeFaqm7hwGN4tlzx1HQKyEI3piFUYRrlFttrpviDuibSlVerMjUf4GQ1TzvH23e1NhYAvMQvpNcbzpp6xEBnoQR3OoGCD3DTQ+0KwsBuad2qhzLGAhAVf/f1tNJx+epYXSe309DiioyPvu8ey6AQpE9cEvqcAaqU3KO+mtQG7DIb7BH1g+mt0qmEoh/NYNfmh4izeB1FXWGotkgANENMuzib/rZcYzJ6nSJTE7DvuDbwwTO06i+NQvXC6cmZD0exilauVx/0BFBNp"
+	}
+    },
+    "dependencies": [],
+    "id": "star-community-unicloud",
+    "name": "社群二维码",
+    "displayName": "社群二维码",
+    "version": "3.8.2",
+    "description": "最全的社群二维码交流平台",
+    "keywords": [
+        "社群",
+        "二维码",
+        "咨询",
+        "帖子",
+        "评论"
+    ],
+    "dcloudext": {
+        "type": "projecttemplate",
+        "sale": {
+            "regular": {
+                "price": "80.00"
+            },
+            "sourcecode": {
+                "price": "98.00"
+            }
+        }
+    }
+}
